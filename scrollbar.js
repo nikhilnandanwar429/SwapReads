@@ -5,8 +5,3 @@ window.onscroll = function(){
    let progress = (scrollY / documentHeight) * 100;
    progressBar.style.width = progress + "%";
 }
-
-
-
-
-
